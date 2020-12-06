@@ -1,4 +1,2 @@
-# An Analysis of Kickstarter Campaigns
-Preforming an Analysis of Kickstarter campaigns to identify if there are current trends
-
-
+# Kickstarting with Excel
+## Overview of the project
